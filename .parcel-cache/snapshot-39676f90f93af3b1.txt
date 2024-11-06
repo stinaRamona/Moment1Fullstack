@@ -1,6 +1,6 @@
 5893
 71C:\Users\stina\Moment1Fullstack\node_modules\@parcel\watcher\src\shared133753786851533139 1
-36C:\Users\stina\Moment1Fullstack\dist133753798985770212 1
+36C:\Users\stina\Moment1Fullstack\dist133753802214697094 1
 73C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function133753786857518263 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\tokenizer\TokenStream.js133753786857393208 0
 92C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\css-cascade-scope.js133753786856023861 0
@@ -37,7 +37,7 @@
 44C:\Users\stina\Moment1Fullstack\package.json133753789148619230 0
 67C:\Users\stina\Moment1Fullstack\node_modules\msgpackr\node-index.js133753786851514422 0
 51C:\Users\stina\Moment1Fullstack\node_modules\base-x133753786848932499 1
-42C:\Users\stina\Moment1Fullstack\.gitignore133753787765395963 0
+42C:\Users\stina\Moment1Fullstack\.gitignore133753800122047369 0
 97C:\Users\stina\Moment1Fullstack\node_modules\csso\node_modules\css-tree\lib\syntax\node\String.js133753786857200532 0
 99C:\Users\stina\Moment1Fullstack\node_modules\@parcel\rust\parcel-node-bindings.linux-arm64-gnu.node133753786860801797 0
 57C:\Users\stina\Moment1Fullstack\node_modules\import-fresh133753786848448721 1
@@ -4986,7 +4986,7 @@
 108C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133753786851092336 0
 125C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133753786854703871 0
 94C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133753786849588192 0
-50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133753798945740701 0
+50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133753802214697094 0
 89C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src133753786854558643 1
 59C:\Users\stina\Moment1Fullstack\node_modules\@parcel\fs\lib133753786851025624 1
 96C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133753786854568696 0
@@ -5886,7 +5886,7 @@
 58C:\Users\stina\Moment1Fullstack\node_modules\.bin\svgo.cmd133753786875265238 0
 58C:\Users\stina\Moment1Fullstack\node_modules\.bin\svgo.ps1133753786875265238 0
 49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133753798906078172 0
-49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133753798945412759 0
+49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133753802214335644 0
 57C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js133753797303309783 0
 65C:\Users\stina\Moment1Fullstack\dist\Moment1Fullstack.59712999.js133753797303309783 0
 60C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js133753797303309783 0
