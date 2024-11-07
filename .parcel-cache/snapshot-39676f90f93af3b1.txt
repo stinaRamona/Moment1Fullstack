@@ -20,7 +20,7 @@
 71C:\Users\stina\Moment1Fullstack\node_modules\picomatch\lib\picomatch.js133753786848809609 0
 35C:\Users\stina\Moment1Fullstack\src133753795465419062 1
 71C:\Users\stina\Moment1Fullstack\node_modules\@parcel\watcher\src\shared133753786851533139 1
-36C:\Users\stina\Moment1Fullstack\dist133754501550975188 1
+36C:\Users\stina\Moment1Fullstack\dist133754568544305751 1
 73C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function133753786857518263 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\tokenizer\TokenStream.js133753786857393208 0
 92C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\css-cascade-scope.js133753786856023861 0
@@ -121,7 +121,7 @@
 89C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data133753786851771157 1
 117C:\Users\stina\Moment1Fullstack\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133753786848430961 0
 71C:\Users\stina\Moment1Fullstack\node_modules\js-yaml\lib\type\binary.js133753786847839160 0
-49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133754501550732476 0
+49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133754568543973556 0
 65C:\Users\stina\Moment1Fullstack\node_modules\fill-range\README.md133753786848296446 0
 49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133753802214335644 0
 60C:\Users\stina\Moment1Fullstack\node_modules\lmdb\caching.js133753786855481211 0
@@ -1254,7 +1254,7 @@
 82C:\Users\stina\Moment1Fullstack\node_modules\node-addon-api\tools\eslint-format.js133753786850874968 0
 70C:\Users\stina\Moment1Fullstack\node_modules\@parcel\utils\src\path.js133753786853443875 0
 69C:\Users\stina\Moment1Fullstack\node_modules\argparse\lib\textwrap.js133753786848988544 0
-50C:\Users\stina\Moment1Fullstack\dist\ramverk1.html133754501550975188 0
+50C:\Users\stina\Moment1Fullstack\dist\ramverk1.html133754568544305751 0
 69C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\node133753786857566494 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\cjs\lexer\generic-urange.cjs133753786853091443 0
 63C:\Users\stina\Moment1Fullstack\node_modules\has-flag\readme.md133753786848524777 0
