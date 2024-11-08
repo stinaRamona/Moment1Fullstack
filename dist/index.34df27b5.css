@@ -1,0 +1,54 @@
+body {
+  color: #fff;
+  background-color: #383838;
+  margin: 0;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+  max-width: 35%;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #df6400;
+  box-shadow: 0 5px 7px #00000081;
+}
+
+#navList {
+  margin-top: 0;
+  padding: 1%;
+  list-style-type: none;
+}
+
+#navList li {
+  color: #fff;
+  display: inline;
+}
+
+a {
+  color: #fff;
+  padding: 2%;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cfcfcf;
+  text-decoration: underline;
+}
+
+#logo {
+  font-size: 2em;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+#active {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=index.34df27b5.css.map */
