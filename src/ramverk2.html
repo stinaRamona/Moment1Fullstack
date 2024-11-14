@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gray-50">
     <nav class="m-12">
-        <ul class="flex p-2 bg-orange-100">
+        <ul class="flex flex-col md:flex-row p-2 bg-orange-100">
             <h2 class="text-2xl font-bold text-orange-500"><a href="index.html">Moment 1 Fullstack</a></h2>
             <li class="mr-3 ml-3">
               <a class="inline-block  rounded hover:border-orange-900 text-orange-500 hover:bg-orange-900 py-1 px-3" href="index.html">Start</a>
@@ -31,53 +31,55 @@
 
         <h2 class="text-2xl font-bold text-orange-500">Tabell</h2>
 
-        <table class="table-auto px-4 text-orange-900">
-            <thead>
-              <tr>
-                <th class="px-4 py-2">Namn</th>
-                <th class="px-4 py-2">Epost</th>
-                <th class="px-4 py-2">Meddelande</th>
-                <th class="px-4 py-2">Hur hittade du hit</th>
-                <th class="px-4 py-2">Nyhetsbrev</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td class="border px-4 py-2">Stina</td>
-                <td class="border px-4 py-2">stpe1901@student.miun.se</td>
-                <td class="border px-4 py-2">Tailwind, vilken grej!</td>
-                <td class="border px-4 py-2">Tips av vän/familj</td>
-                <td class="border px-4 py-2">Nej</td>
-              </tr>
-              <tr class="bg-orange-100">
-                <td class="border px-4 py-2">Johan</td>
-                <td class="border px-4 py-2">avgrunden15@gmail.com</td>
-                <td class="border px-4 py-2">Lite roligare här</td>
-                <td class="border px-4 py-2">Sociala medier</td>
-                <td class="border px-4 py-2">Nej</td>
-              </tr>
-              <tr>
-                <td class="border px-4 py-2">Sven</td>
-                <td class="border px-4 py-2">svensvensson@outlook.com</td>
-                <td class="border px-4 py-2">Jag är glad!</td>
-                <td class="border px-4 py-2">Annat</td>
-                <td class="border px-4 py-2">Ja</td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="overflow x-auto">
+          <table class="table-auto w-full text-orange-900">
+              <thead>
+                <tr>
+                  <th class="px-4 py-2">Namn</th>
+                  <th class="px-4 py-2">Epost</th>
+                  <th class="px-4 py-2">Meddelande</th>
+                  <th class="px-4 py-2">Hur hittade du hit</th>
+                  <th class="px-4 py-2">Nyhetsbrev</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="border px-4 py-2">Stina</td>
+                  <td class="border px-4 py-2">stpe1901@student.miun.se</td>
+                  <td class="border px-4 py-2">Tailwind, vilken grej!</td>
+                  <td class="border px-4 py-2">Tips av vän/familj</td>
+                  <td class="border px-4 py-2">Nej</td>
+                </tr>
+                <tr class="bg-orange-100">
+                  <td class="border px-4 py-2">Johan</td>
+                  <td class="border px-4 py-2">avgrunden15@gmail.com</td>
+                  <td class="border px-4 py-2">Lite roligare här</td>
+                  <td class="border px-4 py-2">Sociala medier</td>
+                  <td class="border px-4 py-2">Nej</td>
+                </tr>
+                <tr>
+                  <td class="border px-4 py-2">Sven</td>
+                  <td class="border px-4 py-2">svensvensson@outlook.com</td>
+                  <td class="border px-4 py-2">Jag är glad!</td>
+                  <td class="border px-4 py-2">Annat</td>
+                  <td class="border px-4 py-2">Ja</td>
+                </tr>
+              </tbody>
+            </table>
+        </div>
           <br>
 
         <h2 class="text-2xl font-bold text-orange-500">Formulär</h2>
 
         <form class="w-full max-w-lg">
             <div class="flex flex-wrap -mx-3 mb-6">
-              <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+              <div class="w-full sm:w-1/2 px-3 mb-6">
                 <label class="block uppercase tracking-wide text-orange-900 text-xs font-bold mb-2" for="grid-first-name">
                   Namn
                 </label>
                 <input class="appearance-none block w-full bg-gray-200 text-orange-900 border border-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="grid-first-name" type="text" placeholder="Namn">
               </div>
-              <div class="w-full md:w-1/2 px-3">
+              <div class="w-full sm:w-1/2 px-3 mb-6">
                 <label class="block uppercase tracking-wide text-orange-900 text-xs font-bold mb-2" for="grid-last-name">
                   Epost
                 </label>
