@@ -23,77 +23,83 @@
           </div>
         </div>
       </nav>
-    <main class="m-5">
+    <main class="container mx-auto">
         <h1>Bootstrap</h1>
 
         <p>Om Bootstrap...</p>
         <h2>Tabell</h2>
 
-        <div class="col-md-5">
-        <table class="table table-striped table-dark table-responsive">
-            <thead>
-              <tr>
-                <th scope="col">Namn</th>
-                <th scope="col">Epost</th>
-                <th scope="col">Meddelande</th>
-                <th scope="col">Hur hittade du hit</th>
-                <th scope="col">Nyhetsbrev</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope="row">Stina</th>
-                <td>stpe1901@student.miun.se</td>
-                <td>Kul sida!</td>
-                <td>Sociala medier</td>
-                <td>Nej</td>
-              </tr>
-              <tr>
-                <th scope="row">Johan</th>
-                <td>avgrunden15@gmail.com</td>
-                <td>Skulle uppskatta lite roligare design</td>
-                <td>Tips av vän/familj</td>
-                <td>Ja</td>
-              </tr>
-              <tr>
-                <th scope="row">Sven</th>
-                <td>svensvensson@outlook.com</td>
-                <td>Jag gillar verkligen vad ni gör!</td>
-                <td>Sociala medier</td>
-                <td>Ja</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
+        <div class="row">
+          <div class="col-12 col-md-10 col-lg-8">
+              <div class="table-responsive">
+                  <table class="table table-striped table-dark">
+                      <thead>
+                          <tr>
+                              <th scope="col">Namn</th>
+                              <th scope="col">Epost</th>
+                              <th scope="col">Meddelande</th>
+                              <th scope="col">Hur hittade du hit</th>
+                              <th scope="col">Nyhetsbrev</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                          <tr>
+                              <th scope="row">Stina</th>
+                              <td>stpe1901@student.miun.se</td>
+                              <td>Kul sida!</td>
+                              <td>Sociala medier</td>
+                              <td>Nej</td>
+                          </tr>
+                          <tr>
+                              <th scope="row">Johan</th>
+                              <td>avgrunden15@gmail.com</td>
+                              <td>Skulle uppskatta lite roligare design</td>
+                              <td>Tips av vän/familj</td>
+                              <td>Ja</td>
+                          </tr>
+                          <tr>
+                              <th scope="row">Sven</th>
+                              <td>svensvensson@outlook.com</td>
+                              <td>Jag gillar verkligen vad ni gör!</td>
+                              <td>Sociala medier</td>
+                              <td>Ja</td>
+                          </tr>
+                      </tbody>
+                  </table>
+              </div>
+          </div>
+      </div>
+
+
         <h2>Formulär</h2>
         <form class="p-2">
-            <div class="form-group col-md-3 mb-2">
-              <label for="exampleInputEmail1">Namn:</label>
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Namn">
+            <div class="form-group col-12 col-md-8 col-lg-6">
+              <label for="name">Namn:</label>
+              <input type="name" class="form-control" id="name" aria-describedby="name" placeholder="Namn">
             </div>
-            <div class="form-group col-md-3 mb-2">
-              <label for="exampleInputPassword1">Epost:</label>
-              <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Epost">
+            <div class="form-group col-12 col-md-8 col-lg-6">
+              <label for="email">Epost:</label>
+              <input type="email" class="form-control" id="email" placeholder="Epost">
             </div>
-            <div class="form-group col-md-3 mb-2">
+            <div class="form-group col-12 col-md-8 col-lg-6">
                 <label for="exampleFormControlTextarea1">Ditt meddelande:</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Ditt meddelande..."></textarea>
             </div>
-            <div class="mb-4">
+            <div class="form-group p-2">
                 <label class="mr-sm-2" for="inlineFormCustomSelect">Hur hittade du hit?</label>
                 <br>
-                <select class="custom-select col-md-3" id="inlineFormCustomSelect">
+                <select class="custom-select col-12 col-md-8 col-lg-6" id="inlineFormCustomSelect">
                   <option selected="">Välj...</option>
                   <option value="1">Sociala medier</option>
                   <option value="2">Tips av vän/familj</option>
                   <option value="3">Annat</option>
                 </select>
             </div>
-            <div class="form-check mb-4">
-              <input type="checkbox" class="form-check-input" id="exampleCheck1">
-              <label class="form-check-label" for="exampleCheck1">Jag vill ha nyhetsbrev till min Epost</label>
+            <div class="form-check col-12 col-md-8 col-lg-6">
+              <input type="checkbox" class="form-check-input" id="news">
+              <label class="form-check-label" for="news">Jag vill ha nyhetsbrev till min Epost</label>
             </div>
-            <button type="submit" class="btn btn-primary mb-2">Skicka in</button>
+            <button type="submit" class="btn btn-dark mb-2">Skicka in</button>
           </form>
           
     </main>

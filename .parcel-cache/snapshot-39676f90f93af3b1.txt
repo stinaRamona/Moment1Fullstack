@@ -20,7 +20,7 @@
 71C:\Users\stina\Moment1Fullstack\node_modules\picomatch\lib\picomatch.js133753786848809609 0
 35C:\Users\stina\Moment1Fullstack\src133755263409117076 1
 71C:\Users\stina\Moment1Fullstack\node_modules\@parcel\watcher\src\shared133753786851533139 1
-36C:\Users\stina\Moment1Fullstack\dist133759806509460451 1
+36C:\Users\stina\Moment1Fullstack\dist133760667228963396 1
 73C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function133753786857518263 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\tokenizer\TokenStream.js133753786857393208 0
 92C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\css-cascade-scope.js133753786856023861 0
@@ -142,9 +142,9 @@
 89C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data133753786851771157 1
 117C:\Users\stina\Moment1Fullstack\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133753786848430961 0
 71C:\Users\stina\Moment1Fullstack\node_modules\js-yaml\lib\type\binary.js133753786847839160 0
-49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133754640505921901 0
+49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133760667228710173 0
 65C:\Users\stina\Moment1Fullstack\node_modules\fill-range\README.md133753786848296446 0
-49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133754654643589309 0
+49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133760646843459015 0
 60C:\Users\stina\Moment1Fullstack\node_modules\lmdb\caching.js133753786855481211 0
 97C:\Users\stina\Moment1Fullstack\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js133753786852600027 0
 49C:\Users\stina\Moment1Fullstack\node_modules\.bin133753786875255234 1
@@ -312,7 +312,7 @@
 87C:\Users\stina\Moment1Fullstack\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133753786853907847 1
 62C:\Users\stina\Moment1Fullstack\node_modules\srcset\index.d.ts133753786848542420 0
 102C:\Users\stina\Moment1Fullstack\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133753786851574357 0
-47C:\Users\stina\Moment1Fullstack\dist\index.html133759802738031573 0
+47C:\Users\stina\Moment1Fullstack\dist\index.html133760621662929704 0
 119C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\StyleSheet.js133753786855331507 0
 78C:\Users\stina\Moment1Fullstack\node_modules\source-map-js\lib\mapping-list.js133753786849068887 0
 70C:\Users\stina\Moment1Fullstack\node_modules\@swc\helpers\cjs\_get.cjs133753786856830271 0
@@ -723,7 +723,7 @@
 55C:\Users\stina\Moment1Fullstack\node_modules\parcel\lib133753786848339460 1
 64C:\Users\stina\Moment1Fullstack\node_modules\type-fest\readme.md133753786848091177 0
 76C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\regions\CH.js133753786854984275 0
-64C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js.map133759800316245938 0
+64C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js.map133760621662993181 0
 59C:\Users\stina\Moment1Fullstack\node_modules\type-fest\ts41133753786852120863 1
 104C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133753786855447235 1
 110C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\prefixIds.js133753786852468459 0
@@ -1264,7 +1264,7 @@
 82C:\Users\stina\Moment1Fullstack\node_modules\node-addon-api\tools\eslint-format.js133753786850874968 0
 70C:\Users\stina\Moment1Fullstack\node_modules\@parcel\utils\src\path.js133753786853443875 0
 69C:\Users\stina\Moment1Fullstack\node_modules\argparse\lib\textwrap.js133753786848988544 0
-50C:\Users\stina\Moment1Fullstack\dist\ramverk1.html133759800316170971 0
+50C:\Users\stina\Moment1Fullstack\dist\ramverk1.html133760667228963396 0
 69C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\node133753786857566494 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\cjs\lexer\generic-urange.cjs133753786853091443 0
 63C:\Users\stina\Moment1Fullstack\node_modules\has-flag\readme.md133753786848524777 0
@@ -1575,7 +1575,7 @@
 66C:\Users\stina\Moment1Fullstack\node_modules\picocolors\types.d.ts133753786849148088 0
 112C:\Users\stina\Moment1Fullstack\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator\index.js133753786853675992 0
 63C:\Users\stina\Moment1Fullstack\node_modules\parse-json\license133753786845123220 0
-57C:\Users\stina\Moment1Fullstack\dist\ramverk1.063f220e.js133759800316181040 0
+57C:\Users\stina\Moment1Fullstack\dist\ramverk1.063f220e.js133760621662834725 0
 81C:\Users\stina\Moment1Fullstack\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133753786855211933 0
 67C:\Users\stina\Moment1Fullstack\node_modules\parent-module\index.js133753786845434450 0
 68C:\Users\stina\Moment1Fullstack\node_modules\domutils\lib\feeds.d.ts133753786850844902 0
@@ -1692,7 +1692,7 @@
 69C:\Users\stina\Moment1Fullstack\node_modules\nth-check\lib\index.d.ts133753786851366067 0
 69C:\Users\stina\Moment1Fullstack\node_modules\nth-check\lib\parse.d.ts133753786851526224 0
 119C:\Users\stina\Moment1Fullstack\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-html.js.map133753786851677629 0
-69C:\Users\stina\Moment1Fullstack\dist\Moment1Fullstack.59712999.js.map133759800316245938 0
+69C:\Users\stina\Moment1Fullstack\dist\Moment1Fullstack.59712999.js.map133760621662993181 0
 67C:\Users\stina\Moment1Fullstack\node_modules\nth-check\lib\parse.js133753786849158153 0
 68C:\Users\stina\Moment1Fullstack\node_modules\@parcel\rust\browser.js133753786848026071 0
 83C:\Users\stina\Moment1Fullstack\node_modules\css-tree\cjs\syntax\node\Condition.cjs133753786850874968 0
@@ -3275,7 +3275,7 @@
 76C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\parser\sequence.js133753786857264921 0
 81C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\lexer\generic-urange.js133753786856560653 0
 76C:\Users\stina\Moment1Fullstack\node_modules\@swc\helpers\src\_construct.mjs133753786858833831 0
-61C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js.map133759800316245938 0
+61C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js.map133760621662993181 0
 74C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\lexer\generic.js133753786856570638 0
 72C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\lexer\index.js133753786856680761 0
 72C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\lexer\Lexer.js133753786856837994 0
@@ -4990,7 +4990,7 @@
 108C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133753786851092336 0
 125C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133753786854703871 0
 94C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133753786849588192 0
-50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133759800316181040 0
+50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133760646844030372 0
 89C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src133753786854558643 1
 59C:\Users\stina\Moment1Fullstack\node_modules\@parcel\fs\lib133753786851025624 1
 96C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133753786854568696 0
@@ -5889,10 +5889,10 @@
 60C:\Users\stina\Moment1Fullstack\node_modules\.bin\semver.ps1133753786875265238 0
 58C:\Users\stina\Moment1Fullstack\node_modules\.bin\svgo.cmd133753786875265238 0
 58C:\Users\stina\Moment1Fullstack\node_modules\.bin\svgo.ps1133753786875265238 0
-57C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js133759800316181040 0
-60C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js133759800316181040 0
-65C:\Users\stina\Moment1Fullstack\dist\Moment1Fullstack.59712999.js133759800316181040 0
-55C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css133759800316205965 0
-61C:\Users\stina\Moment1Fullstack\dist\ramverk1.063f220e.js.map133759800316245938 0
-59C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css.map133759800316245938 0
-53C:\Users\stina\Moment1Fullstack\dist\publicering.html133759806509447839 0
+57C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js133760621662859777 0
+60C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js133760621662859777 0
+65C:\Users\stina\Moment1Fullstack\dist\Moment1Fullstack.59712999.js133760621662859777 0
+53C:\Users\stina\Moment1Fullstack\dist\publicering.html133760621662929704 0
+55C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css133760621662963065 0
+61C:\Users\stina\Moment1Fullstack\dist\ramverk1.063f220e.js.map133760621662993181 0
+59C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css.map133760621663013178 0
