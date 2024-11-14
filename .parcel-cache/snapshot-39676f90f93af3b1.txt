@@ -20,7 +20,7 @@
 71C:\Users\stina\Moment1Fullstack\node_modules\picomatch\lib\picomatch.js133753786848809609 0
 35C:\Users\stina\Moment1Fullstack\src133755263409117076 1
 71C:\Users\stina\Moment1Fullstack\node_modules\@parcel\watcher\src\shared133753786851533139 1
-36C:\Users\stina\Moment1Fullstack\dist133760667228963396 1
+36C:\Users\stina\Moment1Fullstack\dist133760694897036106 1
 73C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function133753786857518263 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\tokenizer\TokenStream.js133753786857393208 0
 92C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\css-cascade-scope.js133753786856023861 0
@@ -144,7 +144,7 @@
 71C:\Users\stina\Moment1Fullstack\node_modules\js-yaml\lib\type\binary.js133753786847839160 0
 49C:\Users\stina\Moment1Fullstack\src\ramverk1.html133760667228710173 0
 65C:\Users\stina\Moment1Fullstack\node_modules\fill-range\README.md133753786848296446 0
-49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133760646843459015 0
+49C:\Users\stina\Moment1Fullstack\src\ramverk2.html133760694896761321 0
 60C:\Users\stina\Moment1Fullstack\node_modules\lmdb\caching.js133753786855481211 0
 97C:\Users\stina\Moment1Fullstack\node_modules\@parcel\runtime-js\src\helpers\worker\wasm-loader.js133753786852600027 0
 49C:\Users\stina\Moment1Fullstack\node_modules\.bin133753786875255234 1
@@ -4990,7 +4990,7 @@
 108C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133753786851092336 0
 125C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133753786854703871 0
 94C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133753786849588192 0
-50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133760646844030372 0
+50C:\Users\stina\Moment1Fullstack\dist\ramverk2.html133760694897026035 0
 89C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src133753786854558643 1
 59C:\Users\stina\Moment1Fullstack\node_modules\@parcel\fs\lib133753786851025624 1
 96C:\Users\stina\Moment1Fullstack\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133753786854568696 0
