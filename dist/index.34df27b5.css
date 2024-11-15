@@ -59,6 +59,10 @@ a:hover {
 }
 
 @media (width <= 900px) {
+  main {
+    max-width: 60%;
+  }
+
   #navList li {
     display: block;
   }

@@ -62,6 +62,11 @@ a:hover {
 
 /*Media-query för mindre skärm */
 @media (max-width:900px){
+
+    main {
+        max-width: 60%;
+    }
+
     #navList li {
         display: block;
     }
