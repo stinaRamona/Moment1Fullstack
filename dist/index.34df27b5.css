@@ -51,4 +51,10 @@ a:hover {
 #active {
   text-decoration: underline;
 }
+
+#intextLink {
+  padding: 0;
+  font-size: 1em;
+  text-decoration: underline;
+}
 /*# sourceMappingURL=index.34df27b5.css.map */
