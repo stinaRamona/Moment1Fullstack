@@ -6,7 +6,7 @@ body {
 }
 
 main {
-  max-width: 35%;
+  max-width: 40%;
   margin: 0 auto;
 }
 
@@ -56,5 +56,11 @@ a:hover {
   padding: 0;
   font-size: 1em;
   text-decoration: underline;
+}
+
+@media (width <= 900px) {
+  #navList li {
+    display: block;
+  }
 }
 /*# sourceMappingURL=index.34df27b5.css.map */

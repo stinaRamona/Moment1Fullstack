@@ -6,7 +6,7 @@ body {
 }
 
 main{
-    max-width: 35%;
+    max-width: 40%;
     margin: 0 auto; 
 } 
 
@@ -58,4 +58,11 @@ a:hover {
     text-decoration: underline; 
     padding: 0; 
     font-size: 1em; 
+} 
+
+/*Media-query för mindre skärm */
+@media (max-width:900px){
+    #navList li {
+        display: block;
+    }
 }

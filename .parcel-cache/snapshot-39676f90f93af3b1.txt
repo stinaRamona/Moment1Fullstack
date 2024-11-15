@@ -48,7 +48,7 @@
 80C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function\var.js133753786857518263 0
 97C:\Users\stina\Moment1Fullstack\node_modules\css-select\node_modules\domutils\lib\manipulation.js133753786849990280 0
 54C:\Users\stina\Moment1Fullstack\node_modules\commander133753786849537207 1
-36C:\Users\stina\Moment1Fullstack\dist133761455414795098 1
+36C:\Users\stina\Moment1Fullstack\dist133761460901857200 1
 73C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\function133753786857518263 1
 82C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\tokenizer\TokenStream.js133753786857393208 0
 92C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\css-cascade-scope.js133753786856023861 0
@@ -86,7 +86,7 @@
 84C:\Users\stina\Moment1Fullstack\node_modules\@parcel\packager-svg\src\SVGPackager.js133753786848130437 0
 71C:\Users\stina\Moment1Fullstack\node_modules\react-refresh\package.json133753786849630795 0
 82C:\Users\stina\Moment1Fullstack\node_modules\source-map\lib\source-map-consumer.js133753786849926258 0
-48C:\Users\stina\Moment1Fullstack\src\css\main.css133761455414561303 0
+48C:\Users\stina\Moment1Fullstack\src\css\main.css133761461083743225 0
 86C:\Users\stina\Moment1Fullstack\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133753786855867730 0
 91C:\Users\stina\Moment1Fullstack\node_modules\caniuse-lite\data\features\web-app-manifest.js133753786862667866 0
 64C:\Users\stina\Moment1Fullstack\node_modules\detect-libc\LICENSE133753786848306516 0
@@ -5894,5 +5894,5 @@
 60C:\Users\stina\Moment1Fullstack\dist\publicering.8f0f85d9.js133761367311277616 0
 61C:\Users\stina\Moment1Fullstack\dist\ramverk1.063f220e.js.map133761367311337608 0
 57C:\Users\stina\Moment1Fullstack\dist\ramverk2.db407d10.js133761367311277616 0
-55C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css133761455414769730 0
-59C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css.map133761455414780017 0
+55C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css133761460901837194 0
+59C:\Users\stina\Moment1Fullstack\dist\index.34df27b5.css.map133761460901847195 0
